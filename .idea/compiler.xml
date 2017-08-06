@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybos-dao" />
+        <module name="mybos-domain" />
+        <module name="mybos-mqproducer" />
+        <module name="mybos-redis" />
+        <module name="mybos-service" />
+        <module name="mybos-shiro" />
+        <module name="mybos-utils" />
+        <module name="mybos-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybos-dao" target="1.7" />
+      <module name="mybos-domain" target="1.7" />
+      <module name="mybos-father" target="1.7" />
+      <module name="mybos-mqproducer" target="1.7" />
+      <module name="mybos-redis" target="1.7" />
+      <module name="mybos-service" target="1.7" />
+      <module name="mybos-shiro" target="1.7" />
+      <module name="mybos-utils" target="1.7" />
+      <module name="mybos-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

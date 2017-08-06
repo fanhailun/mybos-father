@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mybos-web:war">
+    <output-path>$PROJECT_DIR$/mybos-web/target</output-path>
+    <root id="archive" name="mybos-web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mybos-web:war exploded" />
+    </root>
+  </artifact>
+</component>

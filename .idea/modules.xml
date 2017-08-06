@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybos-dao/mybos-dao.iml" filepath="$PROJECT_DIR$/mybos-dao/mybos-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-domain/mybos-domain.iml" filepath="$PROJECT_DIR$/mybos-domain/mybos-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-father.iml" filepath="$PROJECT_DIR$/mybos-father.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-mqproducer/mybos-mqproducer.iml" filepath="$PROJECT_DIR$/mybos-mqproducer/mybos-mqproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-redis/mybos-redis.iml" filepath="$PROJECT_DIR$/mybos-redis/mybos-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-service/mybos-service.iml" filepath="$PROJECT_DIR$/mybos-service/mybos-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-shiro/mybos-shiro.iml" filepath="$PROJECT_DIR$/mybos-shiro/mybos-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-utils/mybos-utils.iml" filepath="$PROJECT_DIR$/mybos-utils/mybos-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybos-web/mybos-web.iml" filepath="$PROJECT_DIR$/mybos-web/mybos-web.iml" />
+    </modules>
+  </component>
+</project>
